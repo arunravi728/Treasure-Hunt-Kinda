@@ -10,10 +10,10 @@ PS - The items you are looking for are super lame, just saying, so you can compl
 
 Okay here is your first clue, I shall let the item in question take over from here - 
 
-[Click here for clue number one](clue1.md)
+[Click here for clue number 1](clue1.md)
 
-Click here for clue number two
+Click here for clue number 2
 
-Click here for clue number three
+Click here for clue number 3
 
-Click here for clue number four
+Click here for clue number 4
