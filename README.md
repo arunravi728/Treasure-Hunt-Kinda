@@ -4,8 +4,8 @@ Welcome **AKSHITI PARASHAR** and **SONAL MEHTA** to the greatest treasure hunt e
 
 [Click here for clue number one](clue1.md)
 
-[Click here for clue number two]()
+Click here for clue number two
 
-[Click here for clue number three]()
+Click here for clue number three
 
-[Click here for clue number four]()
+Click here for clue number four
