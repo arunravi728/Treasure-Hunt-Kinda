@@ -12,8 +12,8 @@ Okay here is your first clue, I shall let the item in question take over from he
 
 [Click here for clue number one](clue1.md)
 
-The following shall be reserved for their particular days.
-
 Click here for clue number two
+
 Click here for clue number three
+
 Click here for clue number four
