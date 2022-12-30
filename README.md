@@ -12,7 +12,7 @@ Okay here is your first clue, I shall let the item in question take over from he
 
 [Click here for clue number 1](clue1.md)
 
-Click here for clue number 2
+[Click here for clue number 2](clue2.md)
 
 Click here for clue number 3
 
