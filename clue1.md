@@ -11,3 +11,7 @@ A letter is a written message conveyed from one person (or group of people) to a
 A letter is a segmental symbol of a phonemic writing system. The inventory of all letters forms an alphabet. Letters broadly correspond to phonemes in the spoken form of the language, although there is rarely a consistent and exact correspondence between letters and phonemes. The word letter, borrowed from Old French letre, entered Middle English around 1200 AD, eventually displacing the Old English term bōcstæf (bookstaff). Letter is descended from the Latin littera, which may have descended from the Greek "διφθέρα" (diphthera, writing tablet), via Etruscan.
 
 Did you finish reading them? Well done, you have successfully wasted 5 minutes of your lives reading excerpts from Wikipedia. I don't know why my creator find this funny. **#FACEPALM**. Anyways as promised here is the clue - 
+
+<p align="center">
+    <img src="images/clue1.png">
+</p>
