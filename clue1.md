@@ -15,9 +15,3 @@ Did you finish reading them? Well done, you have successfully wasted 5 minutes o
 <p align="center">
     <img src="clue1.png">
 </p>
-
-
-<div align="center">
-    He got his credit card here,
-    It’s where all the bills first appear.
-</div>
