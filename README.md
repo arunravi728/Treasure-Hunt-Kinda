@@ -16,4 +16,4 @@ Okay here is your first clue, I shall let the item in question take over from he
 
 [Click here for clue number 3](clue3.md)
 
-Click here for clue number 4
+[Click here for clue number 4](clue4.md)
